@@ -10,9 +10,7 @@ body {
 
 .site-header {
 	background: #212f3d;
-	position: fixed;
 }
-
 
 
 
@@ -27,8 +25,7 @@ body {
 
 .navbar-fixed-top {
 	position: fixed;
-	right: 0;
-	left: 0;
+	top: 0;
 	z-index: 999;
 }
 
@@ -37,11 +34,6 @@ body {
   top: 0;
   width: 100%
 }
-
-.sticky + .content {
-  padding-top: 102px;
-}
-
 
 
 
