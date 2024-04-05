@@ -1,3 +1,3 @@
-# Website of the TALN research group at LS2N lab
+# Website of the Surgical AI Lab at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/)
 
-Available at [taln.ls2n.fr](https://taln.ls2n.fr) and [taln-ls2n.github.io](https://taln-ls2n.github.io) 
+
