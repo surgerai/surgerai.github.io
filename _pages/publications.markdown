@@ -9,9 +9,12 @@ permalink: publications.html
 {% for year in article_by_year %}
   <h2>{{ year.name }}</h2>
   {% for article in year.items %}
-    {% assign authors = article["Authors"] | split: ";" %}
-    {% assign authors = authors | map: "strip" %}
-    {% assign title = article["Title"] %}
+    {% assign authors_raw = article["Authors"] %}
+    {{ authors_raw }} <!-- Debug output: show the raw data -->
+    {% assign authors = authors_raw | split: ";" %}
+    {{ authors }} <!-- Debug output: show the authors after split -->
+
+    
     
     <li>
         {{ title }}.
