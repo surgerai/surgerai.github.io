@@ -5,18 +5,16 @@ permalink: publications.html
 ---
 
 <ul>
-{% assign article_by_year = citations | group_by: "producedDateY_i" %}
+{% assign article_by_year = site.data.hal | group_by: "Year" %}
 {% for year in article_by_year %}
   <h2>{{ year.name }}</h2>
   {% for article in year.items %}
-    {% assign authors = article["authFullName_s"] | split: "," %}
-    {% assign title = article["title_s"] %}
-    {% assign paper_url = article["uri_s"] %}
+    {% assign authors = article["Authors"] | split: ";" %}
+    {% assign title = article["Title"] %}
     
     <li>{{ authors | join: ", " }}.
-        {{ article["producedDate_s"]| slice: 0, 4 }}.
-        <a href="{{paper_url}}">{{ title }}</a>.
-        <i>{{ article["journalTitle_s"] }}{{ article["conferenceTitle_s"] }}</i>.      
+        {{ article["Year"]| slice: 0, 4 }}.
+        <i>{{ article["Publication"] }}{{ article["Publisher"] }}</i>.      
     </li>
 
   {% endfor %}
