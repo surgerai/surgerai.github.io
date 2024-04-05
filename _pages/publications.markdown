@@ -16,7 +16,7 @@ permalink: publications.html
     
     
     <li>
-        {{ year.items }}.
+        {{ article }}.
         {{ title }}.
         {{ authors_raw }}.
         {{ authors | join: ", " }}.
