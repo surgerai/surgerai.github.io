@@ -12,8 +12,9 @@ permalink: publications.html
     {% assign authors = article["Authors"] | split: ";" %}
     {% assign title = article["Title"] %}
     
-    <li>{{ authors | join: ", " }}.
-        {{ article["Year"] }}.
+    <li>
+        {{ title }}.
+        {{ authors | join: ", " }}.
         <i>{{ article["Publication"] }}</i>.
         {% if article["Volume"] %}{{ article["Volume"] }}, {% endif %}
         {% if article["Number"] %}{{ article["Number"] }}, {% endif %}
