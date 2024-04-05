@@ -28,7 +28,7 @@ exclude:
 include: ['_pages', '_posts']
 
 header_pages:
-  - _layouts/home.html
+  - index.markdown
   - _pages/people.markdown
   - _pages/publications.markdown
   - _pages/projects.markdown
