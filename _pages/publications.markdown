@@ -20,7 +20,6 @@ permalink: publications.html
         {{ title }}.
         {{ authors_raw }}.
         {{ authors | join: ", " }}.
-        {{ article | inspect }}.
         <i>{{ article["Publication"] }}</i>.
         {% if article["Publisher"] %}{{ article["Publisher"] }}. {% endif %}
     </li>
