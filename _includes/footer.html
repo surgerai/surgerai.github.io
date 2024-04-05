@@ -25,10 +25,11 @@
         <p> {% include social.html %} </p>
         <p>Last modified: {% if page.date %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ site.time | date: "%B %-d, %Y" }}{% endif %}</p>
       </div>
-
-      
       
     </div>
+    
+    <!-- Button to go to the top of the page -->
+    <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn btn-primary" style="font-size: 24px;">▲</button>
 
   </div>
 
