@@ -13,15 +13,10 @@ permalink: people.html
 ## PhD Students
 
 {: .people}
-- ![Avatar](/img/linkedin.png) <br/> [Hadi Ghahremannezhad](https://www.linkedin.com/in/hg20/)
+- ![Avatar](/img/hadi.png) <br/> [Hadi Ghahremannezhad](https://www.linkedin.com/in/hg20/)
 
 
-<!--
-## Masters Students
 
-{: .people}
-
--->
 
 
 ## Staff
