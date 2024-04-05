@@ -7,9 +7,9 @@ permalink: publications.html
 <ul>
 {% assign article_by_year = site.data.hal | group_by: "Year" | reverse %}
 {% for year in article_by_year %}
-  <h2 style="margin-bottom: 20px;">{{ year.name }}</h2>
+  <h2 style="margin-top: 40px;">{{ year.name }}</h2>
   {% for article in year.items %}
-    {% assign authors_raw = article["Authors"] %}
+    {% assign authors_raw = article["Authors"]  | strip %}
     {% assign authors = authors_raw | split: ";" %}
     {% assign title = article["Title"] %}
 
@@ -20,6 +20,7 @@ permalink: publications.html
         {{ title }}.
         {{ authors_raw }}.
         {{ authors | join: ", " }}.
+        {{ article | inspect }}.
         <i>{{ article["Publication"] }}</i>.
         {% if article["Publisher"] %}{{ article["Publisher"] }}. {% endif %}
     </li>
