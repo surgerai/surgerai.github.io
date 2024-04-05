@@ -26,10 +26,11 @@
 
       <div class="footer-col footer-col-3">
         <p>Contact:  <code>chakrabj (at) mskcc.org   </code></p>
+        <p> {% include social.html %} </p>
         <p>Last modified: {% if page.date %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ site.time | date: "%B %-d, %Y" }}{% endif %}</p>
       </div>
 
-      {% include social.html %}
+      
       
     </div>
 
