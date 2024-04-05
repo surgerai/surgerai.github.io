@@ -13,11 +13,13 @@ permalink: publications.html
     {{ authors_raw }} <!-- Debug output: show the raw data -->
     {% assign authors = authors_raw | split: ";" %}
     {{ authors }} <!-- Debug output: show the authors after split -->
+    {% assign title = article["Title"] %}
 
     
     
     <li>
         {{ title }}.
+        {{ authors_raw }}.
         {{ authors | join: ", " }}.
         <i>{{ article["Publication"] }}</i>.
         {% if article["Publisher"] %}{{ article["Publisher"] }}. {% endif %}
