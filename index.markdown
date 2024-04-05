@@ -7,7 +7,7 @@ title: Welcome!
 list_title: News
 ---
 
-The Surgical AI research group at <a href="https://www.mskcc.org/">MSKCC</a> is a team of faculty, postdocs, and students who work together to improve the  on developing novel computing strategies for precision oncology using machine learning for hepatopancreatobiliary cancers. 
+The Surgical AI research group at <a href="https://www.mskcc.org/">MSKCC</a> is a team of faculty, postdocs, and students who work together on developing novel computing strategies for precision oncology using machine learning for hepatopancreatobiliary cancers. 
 
 
 ![Surgical AI research group](img/zuck.png){: #img-team}
