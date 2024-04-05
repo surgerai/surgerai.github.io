@@ -5,7 +5,7 @@ permalink: publications.html
 ---
 
 <ul>
-{% assign article_by_year = site.data.hal | group_by: "producedDateY_i" %}
+{% assign article_by_year = citations | group_by: "producedDateY_i" %}
 {% for year in article_by_year %}
   <h2>{{ year.name }}</h2>
   {% for article in year.items %}
