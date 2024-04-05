@@ -9,6 +9,7 @@ body {
 
 .site-header {
 	background: #212f3d;
+	position: relative;
 }
 
 
@@ -19,6 +20,7 @@ body {
   left: 50%; 
   transform: translateX(-50%); 
   width: 100%; 
+  height: inherit;
   background-color: #212f3d;
   z-index: 1000;
 }
