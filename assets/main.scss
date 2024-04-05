@@ -7,10 +7,6 @@ body {
 	line-height: 1.5;
 }
 
-.site-header {
-	background: #212f3d;
-}
-
 
 .site-header {
   background: #212f3d;
@@ -19,6 +15,7 @@ body {
   left: 0;
   width: 100%;
   z-index: 1000; /* Ensure the header is above other content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .wrapper {
@@ -31,10 +28,7 @@ body {
   margin-top: 68px; /* Adjust based on header height */
 }
 
-/* Optional: Add a shadow for the fixed header for better visibility */
-.site-header {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+
 
 
 
