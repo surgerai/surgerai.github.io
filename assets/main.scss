@@ -12,14 +12,29 @@ body {
 }
 
 
+.site-header {
+  background: #212f3d;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure the header is above other content */
+}
 
+.wrapper {
+  width: 90%; /* Adjust this as needed */
+  margin: 0 auto;
+}
 
+/* Adjustments to ensure content below the fixed header */
+.site-content {
+  margin-top: 68px; /* Adjust based on header height */
+}
 
-
-
-
-
-
+/* Optional: Add a shadow for the fixed header for better visibility */
+.site-header {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
 
 
 
