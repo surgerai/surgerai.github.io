@@ -193,13 +193,13 @@ ul.people li p {
 }
 
 .project-card:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
   transform: scale(1.05); 
 }
 
 .project-card img {
-  width: 200px; /* Adjust image width */
-  height: auto;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
 }
 
@@ -211,7 +211,8 @@ ul.people li p {
 .project-info h3 {
   margin-top: 0;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 1000;
+  color: #111;
 }
 
 .project-info p {
