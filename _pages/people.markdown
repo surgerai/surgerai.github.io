@@ -8,11 +8,9 @@ permalink: people.html
 
 {: .people}
 - ![Avatar](/img/jaya.png) 
-  <div class="person-info">
     <strong>Jayasree Chakraborty</strong> <br/>
     <em>Principal Investigator</em> <br/>
     <em>2015-Present</em> <br/>
-  </div>
 
 <div class="person-description">
   <p>
@@ -22,12 +20,10 @@ permalink: people.html
 
 
 
-
-
 ## Faculty
 
-## Lab members
 
+## Lab members
 
 {: .people}
 - ![Avatar](/img/hadi.png) <br/>
@@ -39,7 +35,7 @@ permalink: people.html
 
 ## Former Lab members
 
-{: .people}
+
 
 
 
