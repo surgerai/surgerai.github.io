@@ -33,29 +33,7 @@ permalink: people.html
   *2023-Present* <br/>
   ghahreh (at) mskcc.org
 
-- ![Avatar](/img/hadi.png) <br/>
-  **Hadi Ghahremannezhad** <br/>
-  *Postdoctoral Fellow* <br/>
-  *2023-Present* <br/>
-  ghahreh (at) mskcc.org
 
-- ![Avatar](/img/hadi.png) <br/>
-  **Hadi Ghahremannezhad** <br/>
-  *Postdoctoral Fellow* <br/>
-  *2023-Present* <br/>
-  ghahreh (at) mskcc.org
-
-- ![Avatar](/img/hadi.png) <br/>
-  **Hadi Ghahremannezhad** <br/>
-  *Postdoctoral Fellow* <br/>
-  *2023-Present* <br/>
-  ghahreh (at) mskcc.org
-
-- ![Avatar](/img/hadi.png) <br/>
-  **Hadi Ghahremannezhad** <br/>
-  *Postdoctoral Fellow* <br/>
-  *2023-Present* <br/>
-  ghahreh (at) mskcc.org
 
 
 
