@@ -129,24 +129,24 @@ ul li + li {
 	margin-top: .5em;
 }
 
+
 ul.people {
   list-style: none;
   margin-left: 0px;
   margin-right: 0px;
   padding: 0px;
   text-align: center;
-	width: 100%;
-	display: flex;
+  width: 100%;
+  display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  align-items: flex-start; /* justify-content: space-between */
   row-gap: 15px;
-
 }
+
 
 ul.people li {
 	vertical-align: top;
 	width: 200px;
-	height: 300px;
 	margin: auto;
 	padding: 5px;
 	border: 1px solid #AAA;    
@@ -154,6 +154,9 @@ ul.people li {
 	border-radius: 5px;
 	justify-content: center;
 }
+
+
+
 
 ul.people li img {
 	border-radius: 50%;
