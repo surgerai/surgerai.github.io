@@ -4,7 +4,6 @@ title: People
 permalink: people.html
 ---
 
-<br/>
 
 ## Principal Investigator
 
