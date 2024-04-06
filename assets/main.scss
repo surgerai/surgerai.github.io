@@ -133,6 +133,19 @@ body {
     stroke-width: 2; /* Adjust the stroke width as needed */
 }
 
+.site-logo path {
+    transition: text-shadow 0.5s ease; /* Smooth transition for text-shadow */
+}
+
+.site-logo:hover path {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* White glowing shadow */
+}
+
+
+
+
+
+
 .site-nav {
 	line-height: 68px;
 }
