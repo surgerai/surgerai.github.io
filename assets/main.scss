@@ -134,18 +134,17 @@ ul.people {
   list-style: none;
   margin-left: 0px;
   margin-right: 0px;
-  padding-left: 0px;
+  padding: 0px;
   text-align: center;
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  align-items: flex-start; /* justify-content: space-between */
+  justify-content: space-between;
   row-gap: 15px;
 }
 
 ul.people li {
 	vertical-align: top;
-	horizontal-align: left;
 	width: 200px;
 	margin: auto;
 	padding: 5px;
