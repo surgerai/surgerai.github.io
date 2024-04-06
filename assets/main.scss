@@ -102,11 +102,30 @@ body {
 .site-logo {
 	height: 64px;
 	margin: 5px 0px;
+	overflow: hidden;
 	transition: transform 0.5s ease;
 }
 
+.site-logo span {
+	display: block;
+	background: url("img/shine.png") -60px -80px no-repeat;	
+
+	transition-property: all;
+	transition-duration: .8s;
+
+	height: 64px;
+	width: 200px;
+
+	border-radius: 50%
+}
+
+.site-logo:hover span {
+	background-position: 100px 100px;
+}
+
 .site-logo:hover {
-	filter: brightness(250%);
+	filter: brightness(150%);
+	-webkit-filter: brightness(150%);
 }
 
 .site-logo:hover path {
