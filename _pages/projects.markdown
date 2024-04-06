@@ -6,8 +6,7 @@ permalink: projects.html
 
 ## Ongoing projects
 
-- Pancreatic leak/radiomics (Jarnagin/Josephine/Ankur)-(n=698: nw=480): \\
-        Jaya started working on the prospective data; 2nd draft of manuscript ready
+- Pancreatic leak/radiomics (Jarnagin/Josephine/Ankur)-(n=698: nw=480): Jaya started working on the prospective data; 2nd draft of manuscript ready
 - Pancreatic leak/CT qualitative assessment (Jarnagin/Horvat/Josephine): (n=698) analysis done; Manuscript ongoing
 - PDAC recurrence/pre-metastatic liver biopsies (Jarnagin/Lyden/Zambirinis/Bojmar): submitted revision in Nature Medicine
 - Biliary tract cancer survival/genomics (Jarnagin/Yi): started working;
