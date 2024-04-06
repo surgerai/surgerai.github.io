@@ -11,7 +11,7 @@ permalink: people.html
     <strong>Jayasree Chakraborty</strong> <br/>
     <em>Assistant Attending</em> <br/>
     <em>2015-Present</em> <br/>
-    <code>chakrabj (at) mskcc.org</code>
+    chakrabj (at) mskcc.org
 
 <div>
   <p align="justify">
@@ -31,7 +31,7 @@ permalink: people.html
   **Hadi Ghahremannezhad** <br/>
   *Postdoctoral Fellow* <br/>
   *2023-Present* <br/>
-  <code>ghahreh (at) mskcc.org</code>
+  ghahreh (at) mskcc.org
 
 
 
