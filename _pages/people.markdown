@@ -6,14 +6,17 @@ permalink: people.html
 
 ## Principal Investigator
 
-{: .people}
-- ![Avatar](/img/jaya.png) <br/> 
-  **Jayasree Chakraborty** <br/>
-  *Assistant Attending* <br/>
-  *2015-Present* <br/>
-  <code>chakrabj (at) mskcc.org</code>
 
-   Dr. Chakraborty has more than 10 years of expertise in machine learning. Her research interests include applications and developments of machine learning strategies in image and video processing to solve cutting-edge problems. In the last few years, she has developed new computing strategies for cancer treatment via detection, diagnosis, and prognosis of diseases using imaging/non-imaging data as well as developed methods for automatic video surveillance. Her other professional experiences include teaching graduate and undergraduate courses on signal and image processing, supervising and co-supervising Ph.D. students, and reviewing activities for prominent international journals.
+
+
+  {: .people}
+- ![Avatar](/img/jaya.png) 
+  <div class="person-info">
+    **Jayasree Chakraborty** <br/>
+    *Principal Investigator* <br/>
+    *2020-Present* <br/>
+    Dr. Chakraborty has more than 10 years of expertise in machine learning. Her research interests include applications and developments of machine learning strategies in image and video processing to solve cutting-edge problems. In the last few years, she has developed new computing strategies for cancer treatment via detection, diagnosis, and prognosis of diseases using imaging/non-imaging data as well as developed methods for automatic video surveillance. Her other professional experiences include teaching graduate and undergraduate courses on signal and image processing, supervising and co-supervising Ph.D. students, and reviewing activities for prominent international journals.
+  </div>
 
 
 
