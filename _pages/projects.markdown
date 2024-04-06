@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: projects.html
 ---
-<br/>
+
 <div class="projects-container">
   <div class="project-card">
     <div class="project-info">
