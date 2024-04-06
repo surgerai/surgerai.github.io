@@ -102,15 +102,7 @@ body {
 .site-logo {
 	height: 64px;
 	margin: 5px 0px;
-	transition: transform 0.5s ease;
 }
-
-.site-logo:hover {
-    content: url('{{ "img/2_glow.svg" | relative_url }}');
-}
-
-
-
 
 
 
