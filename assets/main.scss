@@ -123,6 +123,7 @@ body {
 .site-logo:hover {
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* White glowing shadow */
     box-shadow: 0 0px 3px rgba(255, 255, 255, 0.8);
+    content: url('{{ "img/logo_white.svg" | relative_url }}');
 }
 
 .site-logo:hover path {
