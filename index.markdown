@@ -14,5 +14,5 @@ list_title: News
 <br/>
 
 
-![Surgical AI research group](img/zuck.png){: #img-team}
+![Surgical AI research group](img/zuck.jpg){: #img-team}
 
