@@ -174,24 +174,27 @@ ul.people li img {
 }
 
 .project-card {
-  width: calc(33.33% - 20px);
+  width: calc(100% - 20px); /* Adjust margin */
   background-color: #fff;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
+  display: flex;
 }
 
 .project-card:hover {
-  transform: translateY(-5px);
+  transform: scale(1.05); /* Slightly enlarge on hover */
 }
 
 .project-card img {
-  width: 100%;
+  width: 200px; /* Adjust image width */
   height: auto;
+  object-fit: cover;
 }
 
 .project-info {
+  flex: 1;
   padding: 20px;
 }
 
@@ -205,6 +208,5 @@ ul.people li img {
   font-size: 14px;
   color: #666;
 }
-
 
 /*===========================================*/
