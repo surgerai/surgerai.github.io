@@ -12,13 +12,13 @@ body {
 
 
 .site-header {
-  background: rgba(33, 47, 61, 0.75);;
+  background: rgba(33, 47, 61, 0.8);;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 1000; /* Ensure the header is above other content */
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.7);
 }
 
 .wrapper {
