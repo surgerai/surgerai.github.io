@@ -6,6 +6,8 @@ permalink: people.html
 
 ## Principal Investigator
 
+<br/>
+
 {: .people}
 - ![Avatar](/img/jaya.png) 
     <strong>Jayasree Chakraborty</strong> <br/>
