@@ -28,24 +28,6 @@ body {
   margin-top: 68px; /* Adjust based on header height */
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .site-footer {
     border-top: 1px solid #e8e8e8;
     padding: 30px 0;
@@ -104,20 +86,7 @@ body {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*===========================================*/
 
 
 .site-nav .page-link {
@@ -193,3 +162,49 @@ ul.people li img {
 	display: inline-block;
 	margin: 10px 0px;
 }
+
+
+/*===========================================*/
+
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-card {
+  width: calc(33.33% - 20px);
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+}
+
+.project-info {
+  padding: 20px;
+}
+
+.project-info h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.project-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
+
+
+/*===========================================*/
