@@ -4,9 +4,9 @@ title: People
 permalink: people.html
 ---
 
-## Principal Investigator
-
 <br/>
+
+## Principal Investigator
 
 {: .people}
 - ![Avatar](/img/jaya.png) 
@@ -22,8 +22,6 @@ permalink: people.html
 </div>
 
 
-
-## Faculty
 
 
 ## Lab members
