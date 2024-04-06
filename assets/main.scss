@@ -106,23 +106,6 @@ body {
 	transition: transform 0.5s ease;
 }
 
-.site-logo span {
-	display: block;
-	background: url("img/shine.png") -60px -80px no-repeat;	
-
-	transition-property: all;
-	transition-duration: .8s;
-
-	height: 64px;
-	width: 200px;
-
-	border-radius: 50%
-}
-
-.site-logo:hover span {
-	background-position: 100px 100px;
-}
-
 .site-logo:hover {
 	filter: brightness(150%);
 	-webkit-filter: brightness(150%);
@@ -137,8 +120,14 @@ body {
     transition: text-shadow 0.5s ease; /* Smooth transition for text-shadow */
 }
 
+.site-logo:hover {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* White glowing shadow */
+    box-shadow: 0 0px 3px rgba(255, 255, 255, 0.8);
+}
+
 .site-logo:hover path {
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* White glowing shadow */
+    box-shadow: 0 0px 3px rgba(255, 255, 255, 0.8);
 }
 
 
