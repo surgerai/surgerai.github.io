@@ -176,7 +176,51 @@ ul.people li:hover {
   background-color: #F8F8F8;
 }
 
+/*===========================================*/
 
+.pi-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.pi-card {
+  width: calc(100% - 40px);
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  display: flex;
+}
+
+.pi-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  transform: scale(1.05); 
+}
+
+.pi-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.pi-info {
+  flex: 1;
+  padding: 20px;
+}
+
+.pi-info h3 {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.pi-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
 
 
 /*===========================================*/
