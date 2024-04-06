@@ -134,7 +134,7 @@ ul.people {
   list-style: none;
   margin-left: 0px;
   margin-right: 0px;
-  padding: 0px;
+  padding-left: 0px;
   text-align: center;
   width: 100%;
   display: flex;
@@ -169,12 +169,6 @@ ul.people li p {
 }
 
 
-
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
-}
 
 
 /*===========================================*/
