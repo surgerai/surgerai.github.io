@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+
+html { overflow-y: scroll; }
+
 body {
 	line-height: 1.5;
 }
@@ -180,7 +183,7 @@ ul.people li p {
 }
 
 .project-card {
-  width: calc(100% - 20px);
+  width: calc(100% - 40px);
   background-color: #fff;
   border-radius: 10px;
   overflow: hidden;
