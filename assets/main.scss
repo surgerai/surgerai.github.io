@@ -146,7 +146,7 @@ ul.people {
 ul.people li {
 	vertical-align: top;
 	width: 200px;
-	height: 200px;
+	height: 300px;
 	margin: auto;
 	padding: 5px;
 	border: 1px solid #AAA;    
@@ -163,6 +163,10 @@ ul.people li img {
 	margin: 10px 0px;
 }
 
+ul.people li p {
+  margin-top: 10px;
+  font-size: 14px;
+}
 
 /*===========================================*/
 
@@ -174,7 +178,7 @@ ul.people li img {
 }
 
 .project-card {
-  width: calc(100% - 20px); /* Adjust margin */
+  width: calc(100% - 20px);
   background-color: #fff;
   border-radius: 10px;
   overflow: hidden;
