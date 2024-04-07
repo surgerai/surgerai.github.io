@@ -27,7 +27,7 @@ permalink: people.html
 </div>
 
 
-
+<br/>
 ## Lab members
 
 {: .people}
