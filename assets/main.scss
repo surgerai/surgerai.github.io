@@ -199,11 +199,37 @@ ul.people li:hover {
   transform: scale(1.05); 
 }
 
-.pi-card img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
+
+.pi-frame {
+	vertical-align: top;
+	width: 200px;
+	margin: auto;
+	padding: 5px;
+	border: 1px solid #AAA;    
+	background-color: #EEE;
+	border-radius: 5px;
+	justify-content: center;
+	transition: transform 3s ease;
 }
+
+.pi-frame img {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin: 10px 0px;
+}
+
+.pi-frame p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.pi-frame:hover {
+  background-color: #F8F8F8;
+}
+
+
 
 .pi-info {
   flex: 1;
