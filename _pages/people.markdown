@@ -11,7 +11,7 @@ permalink: people.html
   <div class="pi-card">
     <div class="pi-frame">
       <img src="img/jaya.png" alt="Jaya">
-      <p>
+      <p align="center">
       <strong>Jayasree Chakraborty</strong> <br/>
         <em>Assistant Attending</em> <br/>
         <em>2015-Present</em> <br/>
