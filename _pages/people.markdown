@@ -44,7 +44,7 @@ permalink: people.html
   *Hepatopancreatobiliary Surgeon* <br/>
   weia (at) mskcc.org
 
-- ![Avatar](/img/soarses_190606_08_1200x800_0.jpg.jpg) <br/>
+- ![Avatar](/img/soarses.jpg) <br/>
   **Kevin Soares** <br/>
   *Hepatopancreatobiliary Surgeon* <br/>
   soaresk (at) mskcc.org
