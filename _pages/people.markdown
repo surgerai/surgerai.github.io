@@ -59,11 +59,6 @@ permalink: people.html
 <br/>
 ## Collaborators
 
-{: .people}
-- ![Avatar](/img/hadi.png) <br/>
-  **Hadi Ghahremannezhad** <br/>
-  *Postdoctoral Fellow* <br/>
-  ghahreh (at) mskcc.org
 
 
 <br/>
