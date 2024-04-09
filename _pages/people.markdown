@@ -14,7 +14,6 @@ permalink: people.html
       <p align="center">
       <strong>Jayasree Chakraborty</strong> <br/>
         <em>Assistant Attending</em> <br/>
-        <em>2015-Present</em> <br/>
         chakrabj (at) mskcc.org
       </p>
     </div>
@@ -26,6 +25,46 @@ permalink: people.html
   </div>
 </div>
 
+<br/>
+## Faculty
+
+{: .people}
+- ![Avatar](/img/jarnagin-william.jpg) <br/>
+  **William Jarnagin** <br/>
+  *Hepatopancreatobiliary Surgeon* <br/>
+  jarnagiw (at) mskcc.org
+
+- ![Avatar](/img/d-angelica-michael.jpg) <br/>
+  **Michael D'Angelica** <br/>
+  *Hepatopancreatobiliary Surgeon* <br/>
+  dangelim (at) mskcc.org
+
+- ![Avatar](/img/alice.jpg) <br/>
+  **Alice Wei** <br/>
+  *Hepatopancreatobiliary Surgeon* <br/>
+  weia (at) mskcc.org
+
+- ![Avatar](/img/soarses_190606_08_1200x800_0.jpg.jpg) <br/>
+  **Kevin Soares** <br/>
+  *Hepatopancreatobiliary Surgeon* <br/>
+  soaresk (at) mskcc.org
+
+- ![Avatar](/img/gonen.jpg) <br/>
+  **Mithat Gönen** <br/>
+  *Chief, Biostatistics Service* <br/>
+  gonenm (at) mskcc.org
+
+
+
+<br/>
+## Collaborators
+
+{: .people}
+- ![Avatar](/img/hadi.png) <br/>
+  **Hadi Ghahremannezhad** <br/>
+  *Postdoctoral Fellow* <br/>
+  ghahreh (at) mskcc.org
+
 
 <br/>
 ## Lab members
@@ -34,7 +73,6 @@ permalink: people.html
 - ![Avatar](/img/hadi.png) <br/>
   **Hadi Ghahremannezhad** <br/>
   *Postdoctoral Fellow* <br/>
-  *2023-Present* <br/>
   ghahreh (at) mskcc.org
 
 
